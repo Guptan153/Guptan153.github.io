@@ -37,10 +37,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: • Experienced and knowledgeable researcher specializing in dairy science and technology, with expertise in milk powder processing and storage
-• Proficient in conducting laboratory analysis techniques and methods related to dairy science
-• Brings 8 years of interdisciplinary expertise in food processing and 4 years of specific experience in dairy technology
-• Seeking a career in food science and dairy technology  
+about_me_description: With a wealth of experience and knowledge in dairy science and technology, I specialize in milk powder processing and storage. I am proficient in conducting laboratory analysis techniques and methods related to dairy science. My background includes 8 years of interdisciplinary expertise in food processing and 4 years of specific experience in dairy technology. I am now seeking a career in food science and dairy technology to further apply and expand my skills.  
 
 # SKILLS SECTION
 # show_skills_card:
