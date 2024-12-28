@@ -1,0 +1,28 @@
+<h1 class="title">{{site.skills_title}}</h1>
+
+<div id="skills">
+  <input type="radio" id="all" name="filter" checked />
+  <label class="filter-button neumorphism-button" for="all">All</label>
+  <input type="radio" id="display" name="filter" />
+  <label class="filter-button neumorphism-button" for="display">Computational Optics</label>
+  <input type="radio" id="rendering" name="filter" />
+  <label class="filter-button neumorphism-button" for="rendering">Visual Computing</label>
+  <input type="radio" id="vision" name="filter" />
+  <label class="filter-button neumorphism-button" for="vision">Vision Science</label>
+
+  {% for display in site.data.skills-display %}
+    <div skill-type="display" skill-weight="{{display.weight}}" data-aos="zoom-in">
+      {{display.name}}
+    </div>
+  {% endfor %}
+  {% for rendering in site.data.skills-rendering %}
+    <div skill-type="rendering" skill-weight="{{rendering.weight}}" data-aos="zoom-in">
+      {{rendering.name}}
+    </div>
+  {% endfor %}
+  {% for vision in site.data.skills-vision %}
+    <div skill-type="vision" skill-weight="{{vision.weight}}" data-aos="zoom-in">
+      {{vision.name}}
+    </div>
+  {% endfor %}
+</div>

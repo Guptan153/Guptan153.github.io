@@ -1,0 +1,30 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+- name: Near-Eye Displays
+  weight: 5
+
+- name: AR/VR
+  weight: 5
+
+- name: Deep Optics
+  weight: 3
+
+- name: Zemax
+  weight: 2
+
+- name: HoloLens
+  weight: 3
+
+- name: Laser Beam Scanning
+  weight: 4
+
+- name: Python
+  weight: 5
+
+- name: Arduino
+  weight: 4

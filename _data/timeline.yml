@@ -1,0 +1,86 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: OQmented GmbH
+  title-url: 
+  date: Sep 2023 - Present
+  subtitle: System Scientist
+  tags:
+    - tag: Investigate, simulate, and model perceptual visual quality for LBS display systems, leveraging insights from human vision science
+  timeline-side: right
+
+- title: Technical University of Denmark
+  title-url: 
+  date: Dec 2018 - Jun 2023
+  subtitle: Early Stage Researcher
+  tags:
+    - tag: Researched visual quality across near-eye display systems in a diverse consortium, achieving improvement in the computing performance-to-quality efficiency in rendering
+  timeline-side: right
+
+- title: Technical University of Denmark
+  title-url: 
+  date: Dec 2018 - Aug 2022
+  subtitle: Doctor of Philosophy - Electrical and Photonics
+  tags: 
+    - tag: Perception-Driven Rendering
+    - tag: Near-Eye Display Systems
+  timeline-side: left
+
+- title: University of Cambridge
+  title-url: 
+  date: Oct 2021 - Jan 2022
+  subtitle: Visiting Researcher
+  tags:
+    - tag: Conducted a subjective experiment and generated a dataset on an HDR-multi-focal-stereo display, then developed a visual model for the perceptual opacity of virtual objects in AR fitting to the subjective data
+  timeline-side: right
+
+- title: BBC Research & Development
+  title-url: 
+  date: Feb 2020 - May 2020
+  subtitle: Research And Development Intern
+  tags:
+    - tag: Experimented on concentric mosaic light field and benchmarked view synthesis and 3D reconstruction methods classified by geometric proxies
+  timeline-side: right
+
+- title: Advanced Micro Devices
+  title-url: 
+  date: Jul 2017 - Nov 2018
+  subtitle: (Senior) Software Development Engineer
+  tags:
+    - tag: Developed automation tools using Perl, Python and Arduino to profile the performance & power consumption of GPUs and managed the data archive
+  timeline-side: right
+
+- title: Carnegie Mellon University
+  title-url: 
+  date: Aug 2014 - May 2016
+  subtitle: Master of Technology - Enertainment
+  tags: 
+    - tag: Computer Graphics
+    - tag: Game Development
+    - tag: Virtual Reality
+  timeline-side: left
+
+- title: Huazhong Uni. of Sci. & Tech.
+  title-url: 
+  date: Sep 2010 - Jun 2014
+  subtitle: Becholar of Engineering - Electronics and Information
+  tags: 
+    - tag: Gesture Recognition
+    - tag: Image Processing
+  timeline-side: left

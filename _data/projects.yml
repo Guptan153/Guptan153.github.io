@@ -1,0 +1,82 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Perception-Driven Hybrid Foveated Depth of Field Rendering for Head-Mounted Displays
+  descr: "Liu, J., Mantel, C. and Forchhammer, S., 2021, October. Perception-driven hybrid foveated depth of field rendering for head-mounted displays. In 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE."
+  demo: https://www.youtube-nocookie.com/embed/BxOjZeAl01Q?si=BXlSpXwhJb2QMAOR
+  doi: https://doi.org/10.1109/ISMAR52148.2021.00014
+  openaccess: https://orbit.dtu.dk/en/publications/perception-driven-hybrid-foveated-depth-of-field-rendering-for-he
+  tags:
+    - tag: Unity
+    - tag: Foveated Rendering
+    - tag: Human Visual Model
+
+- name: How Bright Should a Virtual Object Be to Appear Opaque in Optical See-Through AR?
+  descr: "Liu, J., Jindal, A., Mantel, C., Forchhammer, S. and Mantiuk, R.K., 2022, October. How bright should a virtual object be to appear opaque in optical see-through AR?. In 2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE."
+  demo: https://www.youtube-nocookie.com/embed/t6oQABJ0CiA?si=1gIAppYhg56ffVc4
+  doi: https://doi.org/10.1109/ISMAR55827.2022.00085
+  tags:
+    - tag: Psychophysics
+    - tag: HDR Multi-Focal-Stereo Display
+    - tag: Optical See-Through AR
+
+- name: An Ant's Life, Storytelling in Virtual Reality
+  descr: "Leo, C.J., Tsai, E., Yoon, A., Lee, K. and Liu, J., 2015, October. An Ant's Life: Storytelling in Virtual Reality. In Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play."
+  demo: https://www.youtube-nocookie.com/embed/3unKl84aJY0?si=P3jJ4CCadfIcW9gf
+  doi: https://doi.org/10.1145/2793107.2810264
+  tags:
+    - tag: Oculus Rift
+    - tag: PS Move
+    - tag: Storytelling
+
+- name: A Simulation System for Scene Synthesis in Virtual Reality
+  descr: "Liu, J., Mantel, C., Schweiger, F. and Forchhammer, S., 2021, November. A Simulation System for Scene Synthesis in Virtual Reality. In International Conference on Virtual Reality and Mixed Reality. Cham: Springer International Publishing."
+  demo: https://www.youtube-nocookie.com/embed/b71vj0nFGNA?si=1DrpmUOGukxgLviV
+  doi: https://doi.org/10.1007/978-3-030-90739-6_5
+  openaccess: https://orbit.dtu.dk/en/publications/a-simulation-system-for-scene-synthesis-in-virtual-reality
+  tags:
+    - tag: Unreal
+    - tag: 3D Reconstruction
+    - tag: View Synthesis
+
+- name: Whiteboard Cleaning Bot
+  descr: "A whiteboard cleaning bot with web camera based marks detection."
+  demo: https://www.youtube-nocookie.com/embed/lTpYznLAl7w?si=oQCcw0V00wv75gDj
+  tags:
+    - tag: Python
+    - tag: OpenCV
+    - tag: Arduino
+
+- name: Circle
+  descr: "A co-op and combat multiplayer game that allows players to join and leave at any time using the web brower on mobile phones."
+  demo: https://www.youtube-nocookie.com/embed/Ko9WS6pA46k?si=y7H0hU3LXTLp6hyB
+  tags:
+    - tag: Unity
+    - tag: WebGL
+
+- name: Demo Reel
+  descr: "A demo reel of some casual 2D paintings and 3D scenes."
+  demo: https://www.youtube-nocookie.com/embed/7-TPR18R4R8?si=I71CaXYIdHgnKUKZ
+  tags:
+    - tag: Maya
+    - tag: After Effect
+
+- name: Computational 3D Display
+  descr: "Liu, J., Zhong, F., Mantel, C., Forchhammer, S. and Mantiuk, R.K., 2023. Computational 3D displays. In Immersive Video Technologies. Academic Press."
+  doi: https://doi.org/10.1016/B978-0-32-391755-1.00023-7
+
+- name: Plenoptic Modeling and Measurements of Novel Displays
+  descr: "Liu, J., 2023. Plenoptic Modeling and Measurements of Novel Displays. (Doctoral dissertation)."
+  openaccess: https://orbit.dtu.dk/en/publications/plenoptic-modeling-and-measurements-of-novel-displays
