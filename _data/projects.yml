@@ -32,14 +32,13 @@
     - tag: HDR Multi-Focal-Stereo Display
     - tag: Optical See-Through AR
 
-- name: An Ant's Life, Storytelling in Virtual Reality
-  descr: "Leo, C.J., Tsai, E., Yoon, A., Lee, K. and Liu, J., 2015, October. An Ant's Life: Storytelling in Virtual Reality. In Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play."
-  demo: https://www.youtube-nocookie.com/embed/3unKl84aJY0?si=P3jJ4CCadfIcW9gf
-  doi: https://doi.org/10.1145/2793107.2810264
+- name: Angel of Repose
+  descr: "Post process involves imaging analysis extracting milk powder cone angles – representing powder flowability"
+  demo: https://drive.google.com/file/d/1q9b6brPRuNfSVj7-rZi_wyEme7V9xfjo/view?usp=drive_link
   tags:
-    - tag: Oculus Rift
-    - tag: PS Move
-    - tag: Storytelling
+    - tag: Self-designed experiment 
+    - tag: Matlab
+    - tag: Image Analysis
 
 - name: A Simulation System for Scene Synthesis in Virtual Reality
   descr: "Liu, J., Mantel, C., Schweiger, F. and Forchhammer, S., 2021, November. A Simulation System for Scene Synthesis in Virtual Reality. In International Conference on Virtual Reality and Mixed Reality. Cham: Springer International Publishing."
