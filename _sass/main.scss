@@ -468,21 +468,25 @@ section {
   justify-content: center;
 
   div {
-    padding: 0.2rem;
+    padding: 0.5rem;
     transition: opacity 0.5s;
     overflow: hidden;
   }
 
-  div[skill-type="display"] {
-    color: #e84a5f;
+  div[skill-type="structure"] {
+    color: #fa536a;
   }
 
-  div[skill-type="rendering"] {
-    color: #ff825d;
+  div[skill-type="rehydration"] {
+    color: #f87a49;
   }
 
-  div[skill-type="vision"] {
-    color: #ffbc86;
+  div[skill-type="oxidation"] {
+    color: #ffa057;
+  }
+
+  div[skill-type="emulsion"] {
+    color: #f9be65;
   }
 
   div[skill-weight="1"] {
@@ -866,13 +870,13 @@ section {
       border-radius: 0.5rem;
       cursor: pointer;
       display: unset;
-      margin: 0 0.5rem 1rem;
-      padding: 0.5rem 0.25rem;
+      margin: 0 0.5rem 0.5rem;
+      padding: 0.2rem 0.2rem;
       text-align: center;
-      width: 21%;
+      width: 16%;
 
       &:hover {
-        letter-spacing: 0.25rem;
+        letter-spacing: 0.1rem;
       }
     }
 
@@ -890,18 +894,27 @@ section {
       @include neumorphism-button-pressed();
     }
 
-    input[id="display"]:checked ~ div[skill-type="rendering"],
-    input[id="display"]:checked ~ div[skill-type="vision"] {
+    input[id="structure"]:checked ~ div[skill-type="rehydration"],
+    input[id="structure"]:checked ~ div[skill-type="emulsion"],
+    input[id="structure"]:checked ~ div[skill-type="oxidation"] {
       @include filter-out;
     }
 
-    input[id="rendering"]:checked ~ div[skill-type="display"],
-    input[id="rendering"]:checked ~ div[skill-type="vision"] {
+    input[id="rehydration"]:checked ~ div[skill-type="structure"],
+    input[id="rehydration"]:checked ~ div[skill-type="emulsion"],
+    input[id="rehydration"]:checked ~ div[skill-type="oxidation"] {
       @include filter-out;
     }
 
-    input[id="vision"]:checked ~ div[skill-type="display"],
-    input[id="vision"]:checked ~ div[skill-type="rendering"] {
+    input[id="oxidation"]:checked ~ div[skill-type="structure"],
+    input[id="oxidation"]:checked ~ div[skill-type="emulsion"],
+    input[id="oxidation"]:checked ~ div[skill-type="rehydration"] {
+      @include filter-out;
+    }
+
+    input[id="emulsion"]:checked ~ div[skill-type="structure"],
+    input[id="emulsion"]:checked ~ div[skill-type="rehydration"],
+    input[id="emulsion"]:checked ~ div[skill-type="oxidation"] {
       @include filter-out;
     }
   }
@@ -1005,7 +1018,7 @@ section {
   }
 
   #skills .filter-button {
-    width: 21.5%;
+    width: 15%;
   }
 
   .timeline-wrapper {
@@ -1045,7 +1058,7 @@ section {
   }
 
   #skills .filter-button {
-    width: 22%;
+    width: 16%;
   }
 
   .timeline-wrapper {

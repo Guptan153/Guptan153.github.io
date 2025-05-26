@@ -53,11 +53,11 @@ skills_title: Research Interests & Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Experience & Education
+timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/file/d/1t7m02mw6F9L3tvnMZJfvIYfuwZmk6S_u/view?usp=drive_link
-resume_download_link: https://drive.google.com/file/d/1yWlDAdga2jbvIiXe6x9GWqCq7s42dizb/view?usp=drive_link
+cv_download_link: https://drive.google.com/file/d/15xRWJY_cxUHvSwhwIWUhq8Z-C6KeBiZL/view?usp=drive_link
+resume_download_link: https://drive.google.com/file/d/1QZUKalxzOqtvPiEpMnXCRbixRXOG55d5/view?usp=drive_link
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -69,7 +69,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects & Publications
+projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github

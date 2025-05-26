@@ -17,70 +17,50 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: OQmented GmbH
-  title-url: 
-  date: Sep 2023 - Present
-  subtitle: System Scientist
+- title: University of Copenhagen
+  title-url:
+  date: Jun 2022 - Present
+  subtitle: Research Assistant
   tags:
-    - tag: Investigate, simulate, and model perceptual visual quality for LBS display systems, leveraging insights from human vision science
+    - tag: Developed and applied analytical methods to assess dairy powder quality, focusing on lipid oxidation, lactose crystallization, rehydration, and utilized imaging techniques; provided mentorship to MSc students.
   timeline-side: right
 
-- title: Technical University of Denmark
-  title-url: 
-  date: Dec 2018 - Jun 2023
-  subtitle: Early Stage Researcher
+- title: University of Copenhagen
+  title-url:
+  date: Sep 2019 - Jun 2022
+  subtitle: Master of Science in Food Science and Technology (Specialization in Dairy)
   tags:
-    - tag: Researched visual quality across near-eye display systems in a diverse consortium, achieving improvement in the computing performance-to-quality efficiency in rendering
-  timeline-side: right
-
-- title: Technical University of Denmark
-  title-url: 
-  date: Dec 2018 - Aug 2022
-  subtitle: Doctor of Philosophy - Electrical and Photonics
-  tags: 
-    - tag: Perception-Driven Rendering
-    - tag: Near-Eye Display Systems
+    - tag: Specialized in dairy science and technology; conducted thesis on whey protein emulsions with vegetable fat, achieving full marks; gained strong skills in food chemistry, LCA, and collaboration.
   timeline-side: left
 
-- title: University of Cambridge
-  title-url: 
-  date: Oct 2021 - Jan 2022
-  subtitle: Visiting Researcher
+- title: Nr. Vium Mejeri, Arla Foods amba
+  title-url:
+  date: Jan 2020 - Feb 2020
+  subtitle: Cheese Manufacture Intern
   tags:
-    - tag: Conducted a subjective experiment and generated a dataset on an HDR-multi-focal-stereo display, then developed a visual model for the perceptual opacity of virtual objects in AR fitting to the subjective data
+    - tag: Conducted troubleshooting project on mold growth in aging cheese; successfully identified and presented findings; gained experience in multiple areas of cheese production.
   timeline-side: right
 
-- title: BBC Research & Development
-  title-url: 
-  date: Feb 2020 - May 2020
-  subtitle: Research And Development Intern
+- title: AKAFA, Arla Foods amba
+  title-url:
+  date: Oct 2019 - Dec 2019
+  subtitle: Milk Powder Manufacture Intern
   tags:
-    - tag: Experimented on concentric mosaic light field and benchmarked view synthesis and 3D reconstruction methods classified by geometric proxies
+    - tag: Completed job rotations in powder production; assisted in spray drying and cream sterilization lines; contributed to CIP operations and QC analysis in a dairy plant environment.
   timeline-side: right
 
-- title: Advanced Micro Devices
-  title-url: 
-  date: Jul 2017 - Nov 2018
-  subtitle: (Senior) Software Development Engineer
+- title: China Agricultural University
+  title-url:
+  date: Sep 2015 - Jun 2019
+  subtitle: Bachelor of Engineering in Food Science and Engineering
   tags:
-    - tag: Developed automation tools using Perl, Python and Arduino to profile the performance & power consumption of GPUs and managed the data archive
-  timeline-side: right
-
-- title: Carnegie Mellon University
-  title-url: 
-  date: Aug 2014 - May 2016
-  subtitle: Master of Technology - Enertainment
-  tags: 
-    - tag: Computer Graphics
-    - tag: Game Development
-    - tag: Virtual Reality
+    - tag: Gained knowledge in food microbiology and processing; thesis on fermentation properties of Lactobacillus paracasei rated excellent; performed microbial analysis and GABA quantification.
   timeline-side: left
 
-- title: Huazhong Uni. of Sci. & Tech.
-  title-url: 
-  date: Sep 2010 - Jun 2014
-  subtitle: Becholar of Engineering - Electronics and Information
-  tags: 
-    - tag: Gesture Recognition
-    - tag: Image Processing
-  timeline-side: left
+- title: Beijing Daoxiangcun Foodstuff Co., Ltd.
+  title-url:
+  date: Jul 2018 - Aug 2018
+  subtitle: Cakes & Snacks Manufacture Intern
+  tags:
+    - tag: Gained hands-on experience in traditional cake and snack production; supported warehousing and packaging QA; contributed to R&D and demo preparation for customers.
+  timeline-side: right

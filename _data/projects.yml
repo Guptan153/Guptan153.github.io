@@ -12,70 +12,64 @@
 #     - tag: Express
 #     - tag: AngularJS
 #     - tag: Node
-
-- name: Perception-Driven Hybrid Foveated Depth of Field Rendering for Head-Mounted Displays
-  descr: "Liu, J., Mantel, C. and Forchhammer, S., 2021, October. Perception-driven hybrid foveated depth of field rendering for head-mounted displays. In 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE."
-  demo: https://www.youtube-nocookie.com/embed/BxOjZeAl01Q?si=BXlSpXwhJb2QMAOR
-  doi: https://doi.org/10.1109/ISMAR52148.2021.00014
-  openaccess: https://orbit.dtu.dk/en/publications/perception-driven-hybrid-foveated-depth-of-field-rendering-for-he
-  tags:
-    - tag: Unity
-    - tag: Foveated Rendering
-    - tag: Human Visual Model
-
-- name: How Bright Should a Virtual Object Be to Appear Opaque in Optical See-Through AR?
-  descr: "Liu, J., Jindal, A., Mantel, C., Forchhammer, S. and Mantiuk, R.K., 2022, October. How bright should a virtual object be to appear opaque in optical see-through AR?. In 2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE."
-  demo: https://www.youtube-nocookie.com/embed/t6oQABJ0CiA?si=1gIAppYhg56ffVc4
-  doi: https://doi.org/10.1109/ISMAR55827.2022.00085
-  tags:
-    - tag: Psychophysics
-    - tag: HDR Multi-Focal-Stereo Display
-    - tag: Optical See-Through AR
+#
+# Generated carousel images with Google Photos and converted through https://www.publicalbum.org/blog/embedding-google-photos-albums
 
 - name: Angel of Repose
-  descr: "Post process involves imaging analysis extracting milk powder cone angles – representing powder flowability"
-  demo: https://drive.google.com/file/d/1q9b6brPRuNfSVj7-rZi_wyEme7V9xfjo/view?usp=drive_link
+  descr: "The Angle of Repose is a widely recognized parameter used to evaluate the flowability of powdered materials. Using image capture and post-processing, the angles of milk powder cone were quantified to assess flow behavior and detect physical changes due to formulation or storage."
+  carouselid: AOR
+  carousel: https://photos.app.goo.gl/UhWDYHxW7sD4iuZPA
+  carouselimages: https://lh3.googleusercontent.com/pw/AP1GczNSkBYu9RcdMRm8m6GzE8n_Ll3oOz3cWpXZwlv6Z0KeXDYz6veuIjWpblLHYGrRtLkRm3Jq7UeypI9iN62_STIi5l4ecJ_qGYSSfY8Y1TPLTng-y3Q=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczNyb35CqHbZhZ_nhMsFNRMoOH39ru3QJ98gQikUkPubLhW5_Ba0cm-ti1MEzBSJ9H0azYI9Z20X4EeIyXAj2j3A-KBy5MTQWctqkCusx2TI7f6T2Co=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczPXXOiuvdfOu3WvRBQJwmVd7BPZiitxu9lY4x1Isj34UFqv9fwxT-AHgaN6v399p3hOyf8dEMLc-cwAoWvuli-NryIVfoMMhyPYsPzxGLJi6DbHKzg=w1920-h1080
   tags:
-    - tag: Self-designed experiment 
+    - tag: Self-designed experiment
+    - tag: Image processing
     - tag: Matlab
-    - tag: Image Analysis
 
-- name: A Simulation System for Scene Synthesis in Virtual Reality
-  descr: "Liu, J., Mantel, C., Schweiger, F. and Forchhammer, S., 2021, November. A Simulation System for Scene Synthesis in Virtual Reality. In International Conference on Virtual Reality and Mixed Reality. Cham: Springer International Publishing."
-  demo: https://www.youtube-nocookie.com/embed/b71vj0nFGNA?si=1DrpmUOGukxgLviV
-  doi: https://doi.org/10.1007/978-3-030-90739-6_5
-  openaccess: https://orbit.dtu.dk/en/publications/a-simulation-system-for-scene-synthesis-in-virtual-reality
+- name: Basic Chemometrics Toolbox
+  descr: "Chemometric techniques were applied to analyze complex datasets related to milk powder crystallinity and storage stability. Multivariate Curve Resolution (MCR) was used to decompose Raman data and track crystallization dynamics. Modeling and clustering methods, were employed to identify patterns and group behaviors associated with the increase of extractable fat in whole milk powder (WMP) during storage. These tools enabled data-driven interpretation of physicochemical changes and supported predictive analysis."
+  carouselid: Chemometrics
+  carousel: https://photos.app.goo.gl/MC6WAa26yb2HaT2x6
+  carouselimages: https://lh3.googleusercontent.com/pw/AP1GczMk0CngOgpcMyQaqxXWcS60kY_4yjzFUu2RrCnV_Rob_xyNGcV50Tr0kpKYucMzr65po6DybZ3CUMFE5gziOyO_YFgHprRB2P3SmTB9ia5MP2nFAUk=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczN8iEmONXxsPEetrpsObKKKu3ILBHIG0ZwAmaLghvaLB-GHxw95N4jAKOJnrXaKBbVW6BH6qoB8zkMycU--sWauE23ySqlRxF8GoSM1-NDuLyzH96Q=w1920-h1080
   tags:
-    - tag: Unreal
-    - tag: 3D Reconstruction
-    - tag: View Synthesis
+    - tag: Modeling
+    - tag: Clustering
+    - tag: Multivariate Curve Resolution
+    - tag: Principal component analysis
 
-- name: Whiteboard Cleaning Bot
-  descr: "A whiteboard cleaning bot with web camera based marks detection."
-  demo: https://www.youtube-nocookie.com/embed/lTpYznLAl7w?si=oQCcw0V00wv75gDj
+- name: Image Analysis
+  descr: "Image analysis is a powerful method for quantifying structural features in food systems. It enables the monitoring of time-dependent changes and the identification of patterns in physical properties. The projects below demonstrate its applications in assessing particle size distribution, morphology, and evaluating milk powder wettability and solubility."
+  carouselid: Image-analysis
+  carousel: https://photos.app.goo.gl/P2b6L5ra2gRLnio2A
+  carouselimages: https://lh3.googleusercontent.com/pw/AP1GczNgwK_fgn5aueAZc_vnBwWCi0kD0VBnlddEXG7kaSzi29Sv3qJDea3HhMxme402Qd9VBy0SdO3S_6LCEzr-wOIYww6EqBPKDFHkqDuuQ7Y0LK9K1zM=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczNdnMkyALNeS8F578b2KE9y88fmPkVdrKBaFYCisHvFZHmQm9wivbIk-RQSG9TNWJ1vbfZMzF-D3gAgJWNxHAvBwKDfHQ8f8NJoc5yEzTl3DzlosZc=w1920-h1080
   tags:
-    - tag: Python
-    - tag: OpenCV
-    - tag: Arduino
+    - tag: Structural quantification
+    - tag: Time-series imaging (Videos)
+    - tag: Matlab
 
-- name: Circle
-  descr: "A co-op and combat multiplayer game that allows players to join and leave at any time using the web brower on mobile phones."
-  demo: https://www.youtube-nocookie.com/embed/Ko9WS6pA46k?si=y7H0hU3LXTLp6hyB
+- name: Confocal Laser Scanning Microscopy
+  descr: "CLSM enables detailed visualization of food microstructures using selective fluorescent labeling. In those images, lipid fractions were labeled green and protein structures red, allowing clear observation of fraction distribution."
+  carouselid: CLSM
+  carousel: https://photos.app.goo.gl/iLBAiVTvraV3Y5f18
+  carouselimages: https://lh3.googleusercontent.com/pw/AP1GczPKQgpCyYRBfogpchKH567SkbEN-bbzu5HjccWyVRqpckDqQOzg_1FLsEHiPrizsVuCXcpfqZ34_8ieEgEG2oBIcG9wfvY8ZzYALi-Xndl8W5FzLbc=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczOB3mkb3G1CPJn7ssx8663TzVzluBbJInkKZXuDlzC6oF2ZqfGZqGo2lZeSEWexfiIdCbZsdBF4udiMbONPRqDdHZ8vNqZk9lSU7EQGbLqUG30Bfg0=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczPgkL6ea2wowTvGtmjfRtfOQbjamiQG2YmDIy2ZVqNQ3XqgBooe-N5oK00s4cptozHzG-T-9YFxQzo7QKHTbZ04jsTx2Gjda_ML89fFjOLxT1dws-o=w1920-h1080
   tags:
-    - tag: Unity
-    - tag: WebGL
+    - tag: Fraction imaging
+    - tag: Microstructure analysis
+    - tag: Fluorescent labeling
 
-- name: Demo Reel
-  descr: "A demo reel of some casual 2D paintings and 3D scenes."
-  demo: https://www.youtube-nocookie.com/embed/7-TPR18R4R8?si=I71CaXYIdHgnKUKZ
+- name: Scanning Electron Microscope
+  descr: "Scanning Electron Microscopy (SEM) is a powerful tool to visualize milk powder surface morphology and monitor crystallization-induced structural changes at high resolution, revealing alterations in particle shape, roughness, and microstructural integrity."
+  carouselid: SEM
+  carousel: https://photos.app.goo.gl/m8LRtfvDUMVNp8jJ9
+  carouselimages: https://lh3.googleusercontent.com/pw/AP1GczOdjG-g13pV6jOxJiH2fqi8vkfG7oeUmzlaQqZfnvWmMrhpvwYsGkVZxtnxuaOVz13vsv9roG0aT7V-xbJeIpfDSjPH32PxD-4R8L-TwyJ0nfwNjEU=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczORfShT8Yeqst18H26Q-lvn_YkoWdHXoAR_GoF-lRcmUI-8eB1G4lPDIXQnOZARiaWM2vRgdYa9cU5W7f2MLYzqroeudN5jxA5RZNuZuwKDfnwaTCQ=w1920-h1080
   tags:
-    - tag: Maya
-    - tag: After Effect
+    - tag: Particle microstructure
+    - tag: Surface morphology
 
-- name: Computational 3D Display
-  descr: "Liu, J., Zhong, F., Mantel, C., Forchhammer, S. and Mantiuk, R.K., 2023. Computational 3D displays. In Immersive Video Technologies. Academic Press."
-  doi: https://doi.org/10.1016/B978-0-32-391755-1.00023-7
-
-- name: Plenoptic Modeling and Measurements of Novel Displays
-  descr: "Liu, J., 2023. Plenoptic Modeling and Measurements of Novel Displays. (Doctoral dissertation)."
-  openaccess: https://orbit.dtu.dk/en/publications/plenoptic-modeling-and-measurements-of-novel-displays
+- name: Experiment Design with 3D Printing
+  descr: "3D printing techniques were employed to create customized experimental designs."
+  carouselid: 3D-Printing
+  carousel: https://photos.app.goo.gl/MfwHHrJp8nXK3XQ37
+  carouselimages: https://lh3.googleusercontent.com/pw/AP1GczOQXjMY7CTwhB6Yy60C4ZfrZ16n_JMXGwNbGE6kgNcZd6IJW0apb0hANHDq4jd-6K9EKmMvK6_Iue_Qi100otAFl9SBtg58_rj8Azt6Vwbnvf0ohxo=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczNjM7PSYqYILyJQaCFigk2H1wfcDnSgUssIPo76JAQ94R4mnbv3P9VSs_bPc_evOmszeVKy_zyTP_BrXoGONUejFEBq1uz9e6pAYKBJvPMT_emG344=w1920-h1080
+  tags:
+    - tag: Custom prototypes
+    - tag: Precise modeling

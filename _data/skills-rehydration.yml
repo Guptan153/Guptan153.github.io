@@ -1,0 +1,21 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: MATLAB Imaging
+  weight: 4
+
+- name: MATLAB Video Processing
+  weight: 3
+
+- name: 3D Printing
+  weight: 4
+
+- name: Contact Angle
+  weight: 3
+
+- name: Angle of Repose
+  weight: 3

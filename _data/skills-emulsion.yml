@@ -1,0 +1,24 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+- name: Lab-Scale Homogenizer
+  weight: 3
+
+- name: Mastersizer
+  weight: 4
+
+- name: Zetasizer
+  weight: 4
+
+- name: Rheometer
+  weight: 3
+
+- name: Turbiscan
+  weight: 4
+
+- name: CLSM
+  weight: 5

@@ -3,26 +3,33 @@
 <div id="skills">
   <input type="radio" id="all" name="filter" checked />
   <label class="filter-button neumorphism-button" for="all">All</label>
-  <input type="radio" id="display" name="filter" />
-  <label class="filter-button neumorphism-button" for="display">Computational Optics</label>
-  <input type="radio" id="rendering" name="filter" />
-  <label class="filter-button neumorphism-button" for="rendering">Visual Computing</label>
-  <input type="radio" id="vision" name="filter" />
-  <label class="filter-button neumorphism-button" for="vision">Vision Science</label>
+  <input type="radio" id="structure" name="filter" />
+  <label class="filter-button neumorphism-button" for="structure">Food Micro Structure</label>
+  <input type="radio" id="rehydration" name="filter" />
+  <label class="filter-button neumorphism-button" for="rehydration">Rehydration Properties</label>
+  <input type="radio" id="oxidation" name="filter" />
+  <label class="filter-button neumorphism-button" for="oxidation">Lipid Cxidation</label>
+  <input type="radio" id="emulsion" name="filter" />
+  <label class="filter-button neumorphism-button" for="emulsion">Emulsion Properties</label>
 
-  {% for display in site.data.skills-display %}
-    <div skill-type="display" skill-weight="{{display.weight}}" data-aos="zoom-in">
-      {{display.name}}
+  {% for structure in site.data.skills-structure %}
+    <div skill-type="structure" skill-weight="{{structure.weight}}" data-aos="zoom-in">
+      {{structure.name}}
     </div>
   {% endfor %}
-  {% for rendering in site.data.skills-rendering %}
-    <div skill-type="rendering" skill-weight="{{rendering.weight}}" data-aos="zoom-in">
-      {{rendering.name}}
+  {% for rehydration in site.data.skills-rehydration %}
+    <div skill-type="rehydration" skill-weight="{{rehydration.weight}}" data-aos="zoom-in">
+      {{rehydration.name}}
     </div>
   {% endfor %}
-  {% for vision in site.data.skills-vision %}
-    <div skill-type="vision" skill-weight="{{vision.weight}}" data-aos="zoom-in">
-      {{vision.name}}
+  {% for oxidation in site.data.skills-oxidation %}
+    <div skill-type="oxidation" skill-weight="{{oxidation.weight}}" data-aos="zoom-in">
+      {{oxidation.name}}
+    </div>
+  {% endfor %}
+  {% for emulsion in site.data.skills-emulsion %}
+    <div skill-type="emulsion" skill-weight="{{emulsion.weight}}" data-aos="zoom-in">
+      {{emulsion.name}}
     </div>
   {% endfor %}
 </div>

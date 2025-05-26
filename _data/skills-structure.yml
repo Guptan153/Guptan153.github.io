@@ -5,26 +5,20 @@
 # - name: Language
 #   weight: 5
 
-- name: Near-Eye Displays
+- name: SEM
   weight: 5
 
-- name: AR/VR
-  weight: 5
+- name: Raman Microscope
+  weight: 4
 
-- name: Deep Optics
+- name: FTIR
   weight: 3
 
-- name: Zemax
+- name: DSC
+  weight: 4
+
+- name: Chemometric Tools (MCR, PCA)
+  weight: 3
+
+- name: Texture Analyzer
   weight: 2
-
-- name: HoloLens
-  weight: 3
-
-- name: Laser Beam Scanning
-  weight: 4
-
-- name: Python
-  weight: 5
-
-- name: Arduino
-  weight: 4

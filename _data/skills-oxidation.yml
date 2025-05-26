@@ -5,14 +5,17 @@
 # - name: Git
 #   weight: 5
 
-- name: Psychophysics
+- name: POV
   weight: 4 
 
-- name: Psychtoolbox
+- name: TBARS
+  weight: 4
+
+- name: Spectrophotometer
   weight: 3
 
-- name: PyTorch
-  weight: 3
-
-- name: Matlab
+- name: EPR
   weight: 5
+
+- name: GC-MS
+  weight: 2
