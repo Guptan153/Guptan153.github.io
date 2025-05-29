@@ -15,18 +15,9 @@
 #
 # Generated carousel images with Google Photos and converted through https://www.publicalbum.org/blog/embedding-google-photos-albums
 
-- name: Angel of Repose
-  descr: "The Angle of Repose is a widely recognized parameter used to evaluate the flowability of powdered materials. Using image capture and post-processing, the angles of milk powder cone were quantified to assess flow behavior and detect physical changes due to formulation or storage."
-  carouselid: AOR
-  carousel: https://photos.app.goo.gl/UhWDYHxW7sD4iuZPA
-  carouselimages: https://lh3.googleusercontent.com/pw/AP1GczNSkBYu9RcdMRm8m6GzE8n_Ll3oOz3cWpXZwlv6Z0KeXDYz6veuIjWpblLHYGrRtLkRm3Jq7UeypI9iN62_STIi5l4ecJ_qGYSSfY8Y1TPLTng-y3Q=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczNyb35CqHbZhZ_nhMsFNRMoOH39ru3QJ98gQikUkPubLhW5_Ba0cm-ti1MEzBSJ9H0azYI9Z20X4EeIyXAj2j3A-KBy5MTQWctqkCusx2TI7f6T2Co=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczPXXOiuvdfOu3WvRBQJwmVd7BPZiitxu9lY4x1Isj34UFqv9fwxT-AHgaN6v399p3hOyf8dEMLc-cwAoWvuli-NryIVfoMMhyPYsPzxGLJi6DbHKzg=w1920-h1080
-  tags:
-    - tag: Self-designed experiment
-    - tag: Image processing
-    - tag: Matlab
 
 - name: Basic Chemometrics Toolbox
-  descr: "Chemometric techniques were applied to analyze complex datasets related to milk powder crystallinity and storage stability. Multivariate Curve Resolution (MCR) was used to decompose Raman data and track crystallization dynamics. Modeling and clustering methods, were employed to identify patterns and group behaviors associated with the increase of extractable fat in whole milk powder (WMP) during storage. These tools enabled data-driven interpretation of physicochemical changes and supported predictive analysis."
+  descr: "Chemometric techniques offer powerful tools for analyzing complex datasets related to food science. I used Multivariate Curve Resolution (MCR) to decompose Raman spectroscopy data and track crystallization dynamics. In another case, I employed modeling and clustering methods to identify patterns and group behaviors associated with the increase of extractable fat in whole milk powder (WMP) during storage. These tools enabled data-driven interpretation of physicochemical changes and supported predictive analysis."
   carouselid: Chemometrics
   carousel: https://photos.app.goo.gl/MC6WAa26yb2HaT2x6
   carouselimages: https://lh3.googleusercontent.com/pw/AP1GczMk0CngOgpcMyQaqxXWcS60kY_4yjzFUu2RrCnV_Rob_xyNGcV50Tr0kpKYucMzr65po6DybZ3CUMFE5gziOyO_YFgHprRB2P3SmTB9ia5MP2nFAUk=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczN8iEmONXxsPEetrpsObKKKu3ILBHIG0ZwAmaLghvaLB-GHxw95N4jAKOJnrXaKBbVW6BH6qoB8zkMycU--sWauE23ySqlRxF8GoSM1-NDuLyzH96Q=w1920-h1080
@@ -37,7 +28,7 @@
     - tag: Principal component analysis
 
 - name: Image Analysis
-  descr: "Image analysis is a powerful method for quantifying structural features in food systems. It enables the monitoring of time-dependent changes and the identification of patterns in physical properties. The projects below demonstrate its applications in assessing particle size distribution, morphology, and evaluating milk powder wettability and solubility."
+  descr: "Image analysis is a powerful method for quantifying structural features in food systems. It enables monitoring of time-dependent changes and the identification of patterns in physical properties. The projects below demonstrate applications such as assessing particle size distribution, morphology, and evaluating milk powder wettability and solubility."
   carouselid: Image-analysis
   carousel: https://photos.app.goo.gl/P2b6L5ra2gRLnio2A
   carouselimages: https://lh3.googleusercontent.com/pw/AP1GczNgwK_fgn5aueAZc_vnBwWCi0kD0VBnlddEXG7kaSzi29Sv3qJDea3HhMxme402Qd9VBy0SdO3S_6LCEzr-wOIYww6EqBPKDFHkqDuuQ7Y0LK9K1zM=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczNdnMkyALNeS8F578b2KE9y88fmPkVdrKBaFYCisHvFZHmQm9wivbIk-RQSG9TNWJ1vbfZMzF-D3gAgJWNxHAvBwKDfHQ8f8NJoc5yEzTl3DzlosZc=w1920-h1080
@@ -47,7 +38,7 @@
     - tag: Matlab
 
 - name: Confocal Laser Scanning Microscopy
-  descr: "CLSM enables detailed visualization of food microstructures using selective fluorescent labeling. In those images, lipid fractions were labeled green and protein structures red, allowing clear observation of fraction distribution."
+  descr: "I applied Confocal Laser Scanning Microscopy (CLSM) with selective fluorescent labeling to visualize food microstructure. In these images, lipid fractions were labeled green and protein structures red, allowing clear observation of component distribution."
   carouselid: CLSM
   carousel: https://photos.app.goo.gl/iLBAiVTvraV3Y5f18
   carouselimages: https://lh3.googleusercontent.com/pw/AP1GczPKQgpCyYRBfogpchKH567SkbEN-bbzu5HjccWyVRqpckDqQOzg_1FLsEHiPrizsVuCXcpfqZ34_8ieEgEG2oBIcG9wfvY8ZzYALi-Xndl8W5FzLbc=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczOB3mkb3G1CPJn7ssx8663TzVzluBbJInkKZXuDlzC6oF2ZqfGZqGo2lZeSEWexfiIdCbZsdBF4udiMbONPRqDdHZ8vNqZk9lSU7EQGbLqUG30Bfg0=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczPgkL6ea2wowTvGtmjfRtfOQbjamiQG2YmDIy2ZVqNQ3XqgBooe-N5oK00s4cptozHzG-T-9YFxQzo7QKHTbZ04jsTx2Gjda_ML89fFjOLxT1dws-o=w1920-h1080
@@ -57,7 +48,7 @@
     - tag: Fluorescent labeling
 
 - name: Scanning Electron Microscope
-  descr: "Scanning Electron Microscopy (SEM) is a powerful tool to visualize milk powder surface morphology and monitor crystallization-induced structural changes at high resolution, revealing alterations in particle shape, roughness, and microstructural integrity."
+  descr: "I employed Scanning Electron Microscopy (SEM) to visualize milk powder surface morphology and monitor crystallization-induced structural changes at high resolution, revealing alterations in particle shape, roughness, and microstructural integrity."
   carouselid: SEM
   carousel: https://photos.app.goo.gl/m8LRtfvDUMVNp8jJ9
   carouselimages: https://lh3.googleusercontent.com/pw/AP1GczOdjG-g13pV6jOxJiH2fqi8vkfG7oeUmzlaQqZfnvWmMrhpvwYsGkVZxtnxuaOVz13vsv9roG0aT7V-xbJeIpfDSjPH32PxD-4R8L-TwyJ0nfwNjEU=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczORfShT8Yeqst18H26Q-lvn_YkoWdHXoAR_GoF-lRcmUI-8eB1G4lPDIXQnOZARiaWM2vRgdYa9cU5W7f2MLYzqroeudN5jxA5RZNuZuwKDfnwaTCQ=w1920-h1080
@@ -65,8 +56,18 @@
     - tag: Particle microstructure
     - tag: Surface morphology
 
+- name: Angel of Repose
+  descr: "The Angle of Repose is a widely recognized parameter for evaluating the flowability of powdered materials. By applying image capture and post-processing, I quantified the cone angles of milk powder to assess flow behavior and detect physical changes due to formulation or storage."
+  carouselid: AOR
+  carousel: https://photos.app.goo.gl/UhWDYHxW7sD4iuZPA
+  carouselimages: https://lh3.googleusercontent.com/pw/AP1GczNSkBYu9RcdMRm8m6GzE8n_Ll3oOz3cWpXZwlv6Z0KeXDYz6veuIjWpblLHYGrRtLkRm3Jq7UeypI9iN62_STIi5l4ecJ_qGYSSfY8Y1TPLTng-y3Q=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczNyb35CqHbZhZ_nhMsFNRMoOH39ru3QJ98gQikUkPubLhW5_Ba0cm-ti1MEzBSJ9H0azYI9Z20X4EeIyXAj2j3A-KBy5MTQWctqkCusx2TI7f6T2Co=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczPXXOiuvdfOu3WvRBQJwmVd7BPZiitxu9lY4x1Isj34UFqv9fwxT-AHgaN6v399p3hOyf8dEMLc-cwAoWvuli-NryIVfoMMhyPYsPzxGLJi6DbHKzg=w1920-h1080
+  tags:
+    - tag: Self-designed experiment
+    - tag: Image processing
+    - tag: Matlab
+
 - name: Experiment Design with 3D Printing
-  descr: "3D printing techniques were employed to create customized experimental designs."
+  descr: "I used 3D printing techniques to create customized experimental setups. The images below showcase a built-up petridish shelf, specifically designed for a jar container, and a layered holder enabling the separation of powder samples."
   carouselid: 3D-Printing
   carousel: https://photos.app.goo.gl/MfwHHrJp8nXK3XQ37
   carouselimages: https://lh3.googleusercontent.com/pw/AP1GczOQXjMY7CTwhB6Yy60C4ZfrZ16n_JMXGwNbGE6kgNcZd6IJW0apb0hANHDq4jd-6K9EKmMvK6_Iue_Qi100otAFl9SBtg58_rj8Azt6Vwbnvf0ohxo=w1920-h1080;https://lh3.googleusercontent.com/pw/AP1GczNjM7PSYqYILyJQaCFigk2H1wfcDnSgUssIPo76JAQ94R4mnbv3P9VSs_bPc_evOmszeVKy_zyTP_BrXoGONUejFEBq1uz9e6pAYKBJvPMT_emG344=w1920-h1080
